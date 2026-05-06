@@ -1,5 +1,5 @@
 # IT market analysis 2025
-Using Stack Overflow 2025 Survey. The analysis is based on 42 countries to preserve statistical significance.
+Using Stack Overflow 2025 Survey and variables `age, education level, years of experience, salary, country, years of coding experience, size of organization working in, industry working in, AI frequency of using` . The analysis is based on 42 countries to preserve statistical significance.
 
 ## Graphs preview
 
