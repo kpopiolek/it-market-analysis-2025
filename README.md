@@ -1,7 +1,9 @@
 # IT market analysis 2025
 Using Stack Overflow 2025 Survey. The analysis is based on 42 countries to preserve statistical significance.
 
+## Graphs preview
 
+![Salary boxplot](img/salary_boxplot.png)
 
 ## Contains:
 `IT_job_market_analysis.ipynb`  - main file
@@ -20,8 +22,8 @@ Boxplot graph to present `Monthly salary of IT Professionals in different countr
 
 ## Future improvements:
 
-**Correlation** between salary and other variables
+Further analysis e.g. **correlation** between salary and other variables
 
-**Graphs** representing the data
+More **graphs** representing the data
 
 **Report** to better present analysis and make it readable
