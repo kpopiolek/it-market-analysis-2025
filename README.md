@@ -27,3 +27,5 @@ Further analysis e.g. **correlation** between salary and other variables
 More **graphs** representing the data
 
 **Report** to better present analysis and make it readable
+
+Addressing warnings
