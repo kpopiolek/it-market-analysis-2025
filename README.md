@@ -4,6 +4,7 @@ Using Stack Overflow 2025 Survey and variables `age, education level, years of e
 ## Graphs preview
 
 ![Salary boxplot](img/salary_boxplot.png)
+![Spearman's correlation matrices](img/correlation_matrices.png)
 
 ## Contains:
 `IT_job_market_analysis.ipynb`  - main file
@@ -20,9 +21,11 @@ Mapping the data to make string values usable.
 
 Boxplot graph to present `Monthly salary of IT Professionals in different countries`
 
+Spearman's correlation matrices including statistical importance
+
 ## Future improvements:
 
-Further analysis e.g. **correlation** between salary and other variables
+Further analysis
 
 More **graphs** representing the data
 
