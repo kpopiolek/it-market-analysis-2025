@@ -1,4 +1,5 @@
 # IT market analysis 2025
+[Click here to view the full Notebook via nbviewer](https://nbviewer.org/github/kpopiolek/it-market-analysis-2025/blob/main/IT_job_market_analysis.ipynb)
 Using Stack Overflow 2025 Survey and variables `age, education level, years of experience, salary, country, years of coding experience, size of organization working in, industry working in, AI frequency of using` . The analysis is based on 42 countries to preserve statistical significance.
 
 ## Graphs preview
